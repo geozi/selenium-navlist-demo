@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"my.project","l":"Main"},{"p":"my.project","l":"MouseAction"},{"p":"my.project","l":"NavListUtil"}];updateSearchResults();
