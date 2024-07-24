@@ -4,6 +4,12 @@
 ### About the Project
 This project was created as part of my preparation for the "Test Automation Engineer" job application. Its purpose is to showcase the use of Selenium with Java on a particular web element.
 
+### Prerequisites
+* Java 17 or higher,
+* Intellij IDEA (or any other Java IDE),
+* Maven,
+* Selenium.
+
 ### Web element under test
 The web element tested with Selenium is the top navigation bar at the company's website:
 
