@@ -25,7 +25,7 @@ For more information, please check the provided javadoc.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,selenium&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=java,idea,maven,selenium&theme=light"/>
 	 
   </a>
 </p>
